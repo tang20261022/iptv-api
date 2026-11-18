@@ -4,27 +4,7 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 https://www.iyouhun.com/tv/zb  # 游魂直播源
 https://live.zbds.top/tv/iptv4.txt  # 直播电视IPV4
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u   # IPTV 默认源
-https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u # myIPTV IPv4
-https://sub.ottiptv.cc/huyayqk.m3u # 虎牙一起看
-https://sub.ottiptv.cc/douyuyqk.m3u # 斗鱼一起看
-https://sub.ottiptv.cc/yylunbo.m3u # YY轮播
-https://sub.ottiptv.cc/bililive.m3u # 哔哩哔哩直播源
-https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/assets/test.txt
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
-https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
-https://raw.githubusercontent.com/zheng197600/tvbox/refs/heads/main/tv/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.txt
-https://raw.githubusercontent.com/skddyj/iptv/refs/heads/main/IPTV.m3u
-https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
-https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.txt
-https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
-https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-https://raw.githubusercontent.com/altn2025/iptv/main/iptv.m3u
-https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt
 https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt
-https://iptv-org.github.io/iptv/index.m3u
-https://live.zhoujie218.top/tv/iptv4.txt
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u
 https://live.hacks.tools/tv/ipv4/categories/电影频道.m3u
 https://live.hacks.tools/tv/ipv4/categories/儿童频道.m3u
@@ -47,13 +27,6 @@ https://live.hacks.tools/tv/ipv6/categories/儿童频道.m3u
 https://live.hacks.tools/tv/ipv6/categories/其他频道.m3u
 https://live.hacks.tools/tv/ipv6/categories/体育频道.m3u
 https://live.hacks.tools/tv/ipv6/categories/卫视频道.m3u
-https://iptv.b2og.com/o_all.m3u
-https://iptv.b2og.com/cn_c.m3u
-https://live.iptv-free.com/iptv/categories/general.m3u
-https://live.iptv-free.com/iptv/categories/movies.m3u
-https://tv.850930.xyz/kdsb.txt
-https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt
-
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
