@@ -4,6 +4,8 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 https://guovin.github.io/iptv-api/result.m3u
 https://guovin.github.io/iptv-api/ipv4.m3u
+https://www.iyouhun.com/tv/zb  # 游魂直播源
+https://live.zbds.top/tv/iptv4.txt  # 直播电视IPV4
 https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
