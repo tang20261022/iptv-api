@@ -2,3 +2,5 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 bxtv.3a.ink
+live.chinacert.cftest5.cn
+api.kkitv.itv888.cn
